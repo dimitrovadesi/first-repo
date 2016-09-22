@@ -1,4 +1,4 @@
 Hello, my first repo in Softuni
 
-Updating with Git tutorias
+Updating with Git tutorias desi
 
